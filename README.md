@@ -1,2 +1,2 @@
 # Starbucks
-https://relaxed-beignet-2e74ad.netlify.app
+[DEMO](https://relaxed-beignet-2e74ad.netlify.app)
